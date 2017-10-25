@@ -13,7 +13,7 @@ The function was developed and tested on Python 3.6, but should work for any
 Python 3 version.
 
 ## Usage
-(assuming your file is in the parent dir to the BH_calc directory)
+(assuming your file is in the parent dir to the root directory)
 
 ```commandline
 >> python3
