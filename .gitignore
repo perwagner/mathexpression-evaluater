@@ -1,0 +1,6 @@
+*.pyc
+.idea/
+venv/
+.cache/
+__pycache__/
+coverage_html_report/
